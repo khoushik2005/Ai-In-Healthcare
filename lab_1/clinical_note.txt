@@ -1,0 +1,102 @@
+SYNTHETIC CLINICAL NOTES FOR MULTIMODAL HEART DISEASE NLP DEMONSTRATION
+========================================================================
+
+NOTE 1
+Patient ID: P001
+A 58-year-old patient reports recurrent chest pain during physical activity.
+The discomfort improves with rest and is associated with shortness of breath.
+Medical history includes hypertension and elevated cholesterol. ECG evaluation
+and further cardiac assessment are recommended.
+
+NOTE 2
+Patient ID: P002
+A 64-year-old patient presents with intermittent chest discomfort and fatigue.
+The patient reports occasional dizziness but denies symptoms at rest. History
+includes hypertension and a family history of heart disease. Further evaluation
+of cardiovascular risk factors is advised.
+
+NOTE 3
+Patient ID: P003
+A 47-year-old patient reports palpitations and shortness of breath during
+exercise. No persistent chest pain is reported. The patient has elevated blood
+pressure and cholesterol. ECG monitoring is recommended.
+
+NOTE 4
+Patient ID: P004
+A 71-year-old patient presents with pressure-like chest pain that occurs during
+walking and improves after rest. Associated symptoms include fatigue and
+shortness of breath. Medical history includes hypertension and diabetes.
+Cardiac evaluation is recommended.
+
+NOTE 5
+Patient ID: P005
+A 55-year-old patient reports occasional chest discomfort and dizziness.
+Symptoms are not consistently related to physical activity. The patient has
+high cholesterol but no previous cardiac diagnosis. Further assessment and
+risk-factor evaluation are advised.
+
+NOTE 6
+Patient ID: P006
+A 62-year-old patient presents with shortness of breath, fatigue, and reduced
+exercise tolerance. The patient denies current chest pain. Medical history
+includes hypertension. ECG and cardiovascular examination are recommended.
+
+NOTE 7
+Patient ID: P007
+A 50-year-old patient reports recurrent palpitations and occasional dizziness.
+Symptoms occur intermittently and are not associated with severe chest pain.
+The patient has no known history of heart disease. ECG monitoring may help
+evaluate the reported rhythm symptoms.
+
+NOTE 8
+Patient ID: P008
+A 68-year-old patient reports chest pressure during exertion with associated
+shortness of breath. The symptoms improve with rest. Medical history includes
+hypertension, diabetes, and high cholesterol. Further cardiac assessment is
+recommended.
+
+NOTE 9
+Patient ID: P009
+A 45-year-old patient reports mild fatigue and occasional palpitations.
+No exertional chest pain or shortness of breath is reported. The patient is
+being evaluated for general cardiovascular risk factors.
+
+NOTE 10
+Patient ID: P010
+A 73-year-old patient presents with recurrent exertional chest pain and
+shortness of breath. The patient reports a history of hypertension and elevated
+cholesterol. Symptoms have increased in frequency over recent weeks. ECG
+evaluation and further cardiac assessment are recommended.
+
+NOTE 11
+Patient ID: P011
+A 59-year-old patient reports chest discomfort accompanied by sweating and
+fatigue during physical exertion. Symptoms improve after resting. Medical
+history includes hypertension and diabetes. Further cardiovascular evaluation
+is advised.
+
+NOTE 12
+Patient ID: P012
+A 52-year-old patient presents with occasional dizziness and reduced exercise
+tolerance. The patient denies significant chest pain but reports a family
+history of cardiovascular disease. Blood pressure and cholesterol assessment
+are recommended.
+
+NOTE 13
+Patient ID: P013
+A 66-year-old patient reports episodes of chest tightness and shortness of
+breath during routine activity. Medical history includes high cholesterol and
+hypertension. ECG evaluation is recommended as part of further cardiac
+assessment.
+
+NOTE 14
+Patient ID: P014
+A 49-year-old patient reports intermittent palpitations and mild fatigue.
+There is no current chest pain. The patient has recently been found to have
+elevated cholesterol. Follow-up cardiovascular assessment is advised.
+
+NOTE 15
+Patient ID: P015
+A 70-year-old patient presents with exertional chest discomfort, fatigue, and
+shortness of breath. The patient has a history of hypertension and diabetes.
+Symptoms improve with rest. Further cardiac evaluation is recommended.
